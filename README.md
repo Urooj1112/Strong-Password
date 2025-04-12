@@ -1,8 +1,8 @@
 # Strong-Password
-🔐 SecurePass Vault
+#🔐 SecurePass Vault
 SecurePass Vault is a simple yet powerful tool for checking password strength and generating secure passwords. With real-time feedback and suggestions, this tool helps users strengthen their passwords and generate highly secure alternatives to protect their online accounts.
 
-Features
+#Features
 Password Strength Checker: Analyze the strength of your password based on length, complexity, and common patterns.
 
 Password Suggestions: Get real-time suggestions to improve your password's security.
@@ -13,14 +13,14 @@ User-friendly Interface: A simple, intuitive, and visually appealing design for 
 
 Interactive Feedback: Immediate feedback using emojis and color-coded indicators.
 
-Technologies Used
+#Technologies Used
 Streamlit: For building the web app with Python.
 
 Regex: To check the strength of the password based on various conditions (uppercase, lowercase, numbers, special characters).
 
 Python Libraries: re, random, string, streamlit.
 
-Installation
+#Installation
 Clone the repository:
 
 bash
@@ -45,14 +45,14 @@ bash
 Copy
 Edit
 streamlit run app.py
-How to Use
+#How to Use
 Check Password Strength:
 
 Enter your password into the input field.
 
 Press the "Check Now" button to analyze the password's strength.
 
-Suggestions will appear based on the evaluation of your password.
+#Suggestions will appear based on the evaluation of your password.
 
 Generate Secure Password:
 
